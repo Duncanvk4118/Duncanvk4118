@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Duncanvk4118 (No I'm not) (I'm not a number -_-)
+- 👀 I’m interested in something
+- 🌱 I’m currently learning React (Native) / MongoDB / NodeJS
+- 💞️ I’m looking to collaborate on something <3
+- 📫 How to reach me not
+- ⚡ Fun fact: Cats are animals
