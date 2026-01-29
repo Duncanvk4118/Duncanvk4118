@@ -32,7 +32,7 @@ Ik werk graag aan projecten waarbij **kwaliteit, schaalbaarheid en duidelijke co
 
 ## 📫 Contact
 - 💼 LinkedIn: [link](https://www.linkedin.com/in/duncan-van-keulen-00a402238/)
-- 🌐 Portfolio: [link](duncanvankeulen.nl)
+- 🌐 Portfolio: [link](https://www.duncanvankeulen.nl/)
 - ✉️ Email: duncan.v.keulen@gmail.com
 
 ---
