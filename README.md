@@ -1,6 +1,40 @@
-- 👋 Hi, I’m @Duncanvk4118 (No I'm not) (I'm not a number -_-)
-- 👀 I’m interested in something
-- 🌱 I’m currently learning React (Native) / MongoDB / NodeJS
-- 💞️ I’m looking to collaborate on something <3
-- 📫 How to reach me not
-- ⚡ Fun fact: Cats are animals
+# 👋 Hi, ik ben Duncan
+
+🎯 **Software Developer**  
+📍 Gevestigd in Nederland, Overijssel 
+
+---
+
+## 🚀 Over mij
+Ik ben een gemotiveerde **Software Developer**.  
+Ik werk graag aan projecten waarbij **kwaliteit, schaalbaarheid en duidelijke code** centraal staan.
+
+- 🛠️ Ervaring met: **[tools, talen, frameworks]**
+- 🤝 Open voor samenwerking aan projecten
+
+---
+
+## 🧰 Tech Stack
+**Talen:**  
+`JavaScript` · `PHP` · `Java` · `C#` · `SQL`  
+
+**Frameworks & Libraries:**  
+`React` · `Node.js` · `Next.js` · `Laravel`
+
+**Tools & Platforms:**  
+`Git` · `Docker` · `GitHub Actions` · `AWS`
+
+---
+
+👉 Bekijk mijn repositories voor projecten en experimenten.
+
+---
+
+## 📫 Contact
+- 💼 LinkedIn: [link](https://www.linkedin.com/in/duncan-van-keulen-00a402238/)
+- 🌐 Portfolio: [link](duncanvankeulen.nl)
+- ✉️ Email: duncan.v.keulen@gmail.com
+
+---
+
+⭐️ Bedankt voor het bekijken van mijn profiel!
